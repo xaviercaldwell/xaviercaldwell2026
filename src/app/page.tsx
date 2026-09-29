@@ -271,6 +271,7 @@ export default function Home() {
       <footer>
         <div className="container footer-content">
           <p>&copy; 2026 Xavier Caldwell</p>
+          <p>Made with Next.js</p>
 
           <a href="#top">Back to top ↑</a>
         </div>
