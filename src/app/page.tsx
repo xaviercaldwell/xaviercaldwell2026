@@ -229,7 +229,7 @@ export default function Home() {
 
       <section className="section contact-section" id="contact">
         <div className="container">
-          <h2>Let&apos;s get in touch</h2>
+          <h2>Let&apos;s talk</h2>
 
           <div className="contact-grid">
             <div>
