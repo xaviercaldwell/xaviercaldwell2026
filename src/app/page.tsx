@@ -67,7 +67,6 @@ export default function Home() {
       <section className="section section-accent" id="about">
         <div className="container two-column">
           <div>
-            <span className="eyebrow">About</span>
             <h2>About Me</h2>
 
             <p>
@@ -214,7 +213,6 @@ export default function Home() {
       <section className="section cta-section">
         <div className="container cta-content">
           <div>
-            <span className="eyebrow">Work</span>
 
             <h2>
               Interested In
@@ -231,8 +229,7 @@ export default function Home() {
 
       <section className="section contact-section" id="contact">
         <div className="container">
-          <span className="eyebrow">Contact</span>
-          <h2>Let&apos;s talk</h2>
+          <h2>Let&apos;s get in touch</h2>
 
           <div className="contact-grid">
             <div>
